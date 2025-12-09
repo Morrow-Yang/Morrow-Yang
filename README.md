@@ -1,13 +1,7 @@
-Year 1 Undergrad student at Yuanpei College, Peking University  
+Year 2 Undergrad student at Yuanpei College, Peking University  
 
-Major in Psychology  
+Major in Psychology, with an inter-disciplinary program "AI + Psychological & Cognitive Sciences"
 
-Interest in Philosophy, Linguistics, Literature and Music  
-
-Maimai DX player
-
-ABSOLUTE GREENHAND to coding and math 😔  
-
-Email: yangmingtian@stu.pku.edu.cn  
-
-Literally nice to meet you online!!!
+**Interest in**
+- Applied Psychology (ie, how psychology is implemented in real life)
+- use of AI in psychology research
