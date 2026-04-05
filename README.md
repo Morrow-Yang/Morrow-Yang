@@ -1,4 +1,4 @@
-Year 2 Undergrad student at Yuanpei College, Peking University  
+Undergrad student at Yuanpei College, Peking University  
 
 Major in **Psychology**, with an inter-disciplinary course track "**AI + Psychological & Cognitive Sciences**"
 
@@ -7,3 +7,5 @@ Major in **Psychology**, with an inter-disciplinary course track "**AI + Psychol
 - use of AI in psychology research
 - game design
 - decision-making in social contexts
+
+To know more about me, you can visit [my homepage](https://morrow-yang.github.io/)
