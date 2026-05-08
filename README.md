@@ -8,4 +8,4 @@ Major in **Psychology**, with an inter-disciplinary course track "**AI + Psychol
 - game design
 - decision-making in social contexts
 
-To know more about me, you can visit [my homepage](https://morrow-yang.github.io/). Nice to meet you!
+To know more about me, you can visit [my homepage](https://morrow-yang.github.io/).
