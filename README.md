@@ -1,10 +1,11 @@
-Rising Junior at [Yuanpei College, Peking University](yuanpei.pku.edu.cn)  
+Junior at [Yuanpei College, Peking University](yuanpei.pku.edu.cn)  
 
-Major in **Psychology**, with an inter-disciplinary course track "**AI + Psychological & Cognitive Sciences**"
+Major in **Psychology**, double in **Economics**, with an inter-disciplinary course track "**AI + Psychological & Cognitive Sciences**"
 
 Interest:
-- AI Product, agent building
-- Cognitive modeling
+- AI Product
+- AI Agent
+- Frontend
 - Behaviorial Sciences
 - Investment
 
